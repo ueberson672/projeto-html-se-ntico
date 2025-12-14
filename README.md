@@ -1,1 +1,1 @@
-# projeto-html-se-ntico
+# projeto-html-semantico
